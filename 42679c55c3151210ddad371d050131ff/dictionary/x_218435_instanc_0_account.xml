@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ab2854d5c3151210ddad371d050131c1" label="Account" max_length="40" name="x_218435_instanc_0_account" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="URL" mandatory="true" max_length="1024" name="url" type="url"/>
+        <element default="true" function_definition="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Filter" max_length="4000" name="filter" type="conditions"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_218435_instanc_0_account" type="reference"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

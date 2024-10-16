@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Suite Filter" section_id="f659d859c3151210ddad371d05013100" sys_domain="global" table="x_218435_instanc_0_account" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>filter</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-16 03:00:31</sys_created_on>
+            <sys_id>cf59d859c3151210ddad371d05013168</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Suite Filter" display_value="Suite Filter" name="x_218435_instanc_0_account" sys_domain="global" view="Default view">f659d859c3151210ddad371d05013100</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-16 03:00:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Suite Filter</caption>
+            <header>false</header>
+            <name>x_218435_instanc_0_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-16 03:00:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f659d859c3151210ddad371d05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_218435_instanc_0_account</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Instance Snapshot" source="x_218435_instanc_0">42679c55c3151210ddad371d050131ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance Snapshot">42679c55c3151210ddad371d050131ff</sys_scope>
+            <sys_update_name>sys_ui_section_f659d859c3151210ddad371d05013100</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-16 03:00:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

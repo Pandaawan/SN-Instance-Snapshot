@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_218435_instanc_0_account</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 02:55:24</sys_created_on>
+        <sys_id>732894d5c3151210ddad371d0501314a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_218435_instanc_0_account</sys_name>
+        <sys_package display_value="Instance Snapshot" source="x_218435_instanc_0">42679c55c3151210ddad371d050131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Snapshot">42679c55c3151210ddad371d050131ff</sys_scope>
+        <sys_update_name>ua_table_licensing_config_732894d5c3151210ddad371d0501314a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 02:55:24</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

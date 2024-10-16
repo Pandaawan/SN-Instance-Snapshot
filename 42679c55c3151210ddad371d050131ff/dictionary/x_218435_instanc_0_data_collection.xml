@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="183ad0d9c3151210ddad371d05013150" extends="task" label="Data Collection" max_length="40" name="x_218435_instanc_0_data_collection" type="collection">
+        <element label="Condition" max_length="4000" name="condition" type="conditions"/>
+        <element label="Encoded Query" max_length="40" name="encoded_query" type="string"/>
+    </element>
+</database>
